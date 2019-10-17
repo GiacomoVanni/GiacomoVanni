@@ -1,0 +1,94 @@
+Who Am I 
+
+I'm a Unity developer based in Pisa, Tuscany, Italy.
+
+After three years of study I graduated at Event horizon - School of digital art / TheSign - Comics & Arts Academy Firenze as a Game programmer in the accademic year 2018-2019. 
+
+I've spent the 2019 studying about Graphic programming with a particular focus on Shader Development in Unity.
+
+Currently i am a teaching Shaders Basics at TheSign - Comics & Arts Academy - 3D Game Art department of Game Dev
+
+Videogames are my life-passion and i've grown up playing all kind of games, from MMO's to Fps 
+
+
+
+Personal Skills:
+
+- c# and Object-oriented programming
+
+- Unity 2D and 3D
+
+- Shader Development in Unity
+
+- Version Control Software such as Git
+
+- Code Debug and Code Design
+
+- Team work and Social skills
+
+
+
+
+My Projects:
+
+	UNUM:
+	
+	mid 2018 - today 
+	
+	*Video*
+
+	Unum is a 2D isometric
+	action game in which the
+	player has to defeat a certain
+	number of Bosses being able
+	to only perform a Dash
+	
+	Started as an third year accademy project, I developed unum as Lead Programmer and this helped me 
+	to understand how to work in team and how to cohordinate work and people.
+
+	My personal focus on this projects:
+
+	-AI
+	-Player Input and Physics
+	-Gameplay 
+	-Development Tools for designers and artists
+	-Code design pattern	
+	-UML structure
+	
+	ShaderShowcase:
+	
+	early 2019 - today
+	
+	*Video*
+	
+	Those are my results after 8 months of studying about shaders and Graphic programming for Unity.
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//After two years attendinge computer engineering in Pisa i've decided to finally follow my passion and searching something that could fit me better.
+
+
+
