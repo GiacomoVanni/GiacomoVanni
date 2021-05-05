@@ -1,0 +1,31 @@
+HA:
+
+sottotitolo: è un Atlante interattivo di neuroanatomia.
+
+
+
+
+PU video:
+
+- di cosa mi sono occupato:  
+
+UI/UX,
+In-Depth Code optimization,
+Database,
+Online Server API,
+Camera Behaviours,
+Input,
+Physic,
+Object Selection through shader ( Not Colliders due to optimization needs),
+Section Shaders,
+Recolor and retexturing Shaders,
+Scene Setup with complex 3D organization,
+Services (Savings, In App Purchase, News, Store),
+
+
+
+
+
+
+
+
