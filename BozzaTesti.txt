@@ -26,4 +26,18 @@ Given the fact that every color is Object-unique, we can easly return the select
 
 
 
+A full 3D and Augmented Reality app for studying neuroanatomical details on mobile devices.
+You can access more than 2500 labels and descriptions and use 3 different visualization tools: create sections, isolate objects, exploded view.
 
+Head Atlas also contains new modules like ARTouch (physical part purchasable on UpSurgeOn store) where you can observe neuroanatomy in a hybrid way.
+Head Atlas provides a variety of texts organised into three cognitive levels, from general overviews to highly specific definitions, to facilitate learning and memorisation.
+
+FEATURES
+* 3D and Augmented Reality neuroanatomy
+* Every single structure (Skull bones, Vascular and nervous system) can be reached and interacted with.
+* You can rotate models to any angles and zoom in and out
+* Hide structures to reveal the anatomy below.
+* Anatomical details organised into groups of labels and hotspots.
+* 2500+ labels and descriptions of details and sutures
+* Different neuroanatomical visualisation tools: section, explode, color and texture
+* New modules coming soon
