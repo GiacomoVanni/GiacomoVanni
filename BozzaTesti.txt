@@ -4,27 +4,25 @@ sottotitolo: è un Atlante interattivo di neuroanatomia.
 
 
 
-
-PU video:
-
-- di cosa mi sono occupato:  
-
-UI/UX,
-In-Depth Code optimization,
-Database,
-Online Server API,
-Camera Behaviours,
-Input,
-Physic,
-Object Selection through shader ( Not Colliders due to optimization needs),
-Section Shaders,
-Recolor and retexturing Shaders,
-Scene Setup with complex 3D organization,
-Services (Savings, In App Purchase, News, Store),
+HeadAtlas is the second project I've worked on as a Software developer for UpSurgeOn.
+It took us 6 months from the start to the publishing on both GooglePlay and AppStore.
+It was a very strong but inspiring challenge for me, as the only Developer, to build this app.
+It helped me enhance my teamwork and understanding 
 
 
+-----
+
+Selection Without Colliders
 
 
+Due to optimization needs (We had more than 3 Milions vertices), we decided to remove all colliders from our 3D objects in the scenes.
+This solution leads to a major performance improvement but it creates another problem: Raycast to select an object is now unavaible.
+
+To solve this problem I used a render texture applied on a Plane that mirrors the rendered screen but, instead of using the normal object material, 
+I used a UNIQUE randomly generated RGB color code applied to every single interactable's object shader. (See video)
+After that, we can easly check, given the user's input position, the same position on the renderPlane and get the precise color of the selected pixel.
+Given the fact that every color is Object-unique, we can easly return the selected object without using any raycasts or colliders.
+  
 
 
 
