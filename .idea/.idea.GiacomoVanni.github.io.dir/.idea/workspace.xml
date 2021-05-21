@@ -13,9 +13,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/BozzaTesti.txt" />
         <option value="$PROJECT_DIR$/newIndex.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -55,6 +55,7 @@
       <workItem from="1620591178035" duration="5952000" />
       <workItem from="1620926581547" duration="1975000" />
       <workItem from="1620937645844" duration="1631000" />
+      <workItem from="1621622093605" duration="2426000" />
     </task>
     <servers />
   </component>
@@ -131,6 +132,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1438" height="518" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1620602537944" />
+    <state x="1001" y="441" width="540" height="524" key="StructurePopup" timestamp="1621627103540">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1001" y="441" width="540" height="524" key="StructurePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1621627103540" />
     <state x="360" y="353" width="2533" height="1387" key="dock-window-1" timestamp="1620324801091">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

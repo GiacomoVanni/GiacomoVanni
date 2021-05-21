@@ -1,0 +1,88 @@
+Giacomo Vanni
+Software Developer
+
+Milan
++39 3935667302
+
+Passionate and motivated software developer based in Milan with 2 years of professional experience developing with C# and Unity.
+
+Interested in all kinds of technologies, in particular everything regarding Shaders, Videogames, AR/VR/XR, and AI.
+
+I think the best part of our job is to find a new problem to solve and nothing gratifies me more than doing it.
+
+I've spent five years working in the family business to pay for my studies, which's lead me to understand even more how much I love coding and in particular solving problems.
+
+PERSONAL INFORMATION
+  Address: , Milan, 
+  Date of birth: 22/11/1993 Pontedera (Pisa)
+  Nationality: Italian
+  Driving License: 
+  Hobbies: Videogames, Card games, Tennis, Skiing, Cooking
+
+SOCIAL PROFILES
+  * Portfolio with all of my projects: https://giacomovanni.github.io/
+
+LANGUAGES
+  ★★★★★ Italian
+  ★★★★☆ English
+
+SKILLS
+  ★★★★★ C#
+  ★★★★★ Unity
+  ★★★★★ Git
+  ★★★★☆ Shader (CG - HLSL)
+  ★★★☆☆ C++
+  ★★★★★ OOP
+  ★★★☆☆ HTML-CSS
+  ★★★★★ Working with Designers/Artists
+
+WORK EXPERIENCE
+  * March 2020 – Present
+    Software Developer (C# - Unity) at UpSurgeOn Srl, Milano
+      UpSurgeOn develops an advanced sequence of virtual and physical technologies designed to support mental and manual training for young neurosurgeons. The goal of the company is to solve the problem of practice in neurosurgery which is a global healthcare emergency.
+
+For this purpose, UpSurgeOn won the European Union’s H2020 Research and Innovation Programme under grant agreement n.880895.
+
+During my period working there as a Software developer on Unity I was able to focus on:
+
+C#, Unity, Online Stores Management, ARCore - ARKit, Shaders, UI, In-Depth Code optimization, Services (Savings, In-App Purchase, News), Database, Online Server API, Camera Behaviours.
+
+  * October 2019 – March 2020
+    Professor of "Shader Basics" at TheSign Comics & Arts Academy, Florence
+      TheSign Comics &amp; Arts Academy is a private university that offers courses on all kinds of subjects related to game development.
+
+After my graduation, the academy offered me a six months job as a professor to teach new programmers my thesis' topics. It was a very incredible experience that helped me to become more aware of my knowledge.
+
+
+EDUCATION
+  * September 2016 – September 2019
+    Event Horizon School / TheSign Comics & Arts Academy , Florence Game Programmer
+
+    Final thesis: Shader (CG-HLSL).
+Three-year course with focus on:
+
+C#, C++, Unity, Teamwork, Working with artists and designers, working with other developers, multiplatform.
+  * September 2014 – November 2014
+    University of Pisa,  Computer Engineering
+
+    Although I didn’t complete the course, I spent two years attending classes and exams.
+I learned the principles of Programming, OOP, and attended courses of Algorithm and Data Structures, Operating System, Math and Physic
+
+INTERNSHIPS
+  * May 2016 – September 2016
+    Unity Developer (Microsoft HoloLens) at Balzo Srl, Florence
+
+    After I've finished my first year at the academy, one of my professors offered me an internship at his company.
+
+For four months I've worked hand to hand with senior developers using Microsoft HoloLens.
+
+EXTRA-CURRICULAR ACTIVITIES
+  * January 2012 – January 2019
+    Receptionist at Dimora Antico Borgo, Terricciola
+
+    To pay for my studies I've joined the family business handling social media and welcoming customers for our B&amp;B/apartment service in Tuscany. There I learned how to work and relate with people.
+
+COURSES
+  * January 2018 – January 2019
+    Shader Development using Unity, https://shaderdev.com/p/shader-development-using-unity-5
+
