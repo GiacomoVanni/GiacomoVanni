@@ -62,7 +62,7 @@ EDUCATION
 Three-year course with focus on:
 
 C#, C++, Unity, Teamwork, Working with artists and designers, working with other developers, multiplatform.
-  * September 2014 – November 2014
+  * September 2014 – November 2016
     University of Pisa,  Computer Engineering
 
     Although I didn’t complete the course, I spent two years attending classes and exams.
