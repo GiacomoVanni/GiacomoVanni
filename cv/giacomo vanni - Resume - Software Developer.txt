@@ -37,7 +37,13 @@ SKILLS
   ★★★★★ Working with Designers/Artists
 
 WORK EXPERIENCE
-  * March 2020 – Present
+  * September 2021 – Present
+    Software Developer at OverIT - Field Service Management, Milano
+      
+I am currently working on AR technlogies with Microsoft Holens 2 for the SPACE1 division to develop new solutions for the Field Service Menagement and the Augmented Collaboration
+
+
+  * March 2020 – September 2021
     Software Developer (C# - Unity) at UpSurgeOn Srl, Milano
       UpSurgeOn develops an advanced sequence of virtual and physical technologies designed to support mental and manual training for young neurosurgeons. The goal of the company is to solve the problem of practice in neurosurgery which is a global healthcare emergency.
 
