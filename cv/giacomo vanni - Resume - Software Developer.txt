@@ -4,13 +4,12 @@ Software Developer
 Milan
 +39 3935667302
 
-Passionate and motivated software developer based in Milan with 2 years of professional experience developing with C# and Unity.
+Passionate and motivated software developer based in Milan with 3 years of professional experience developing with C# and Unity on Android, iOS, Microsoft Hololens2 and HTC Vive.
 
-Interested in all kinds of technologies, in particular everything regarding Shaders, Videogames, AR/VR/XR, and AI.
+I am interested in all kinds of technologies, in particular everything regarding Shaders, Videogames, AR/VR/XR, and AI.
 
 I think the best part of our job is to find a new problem to solve and nothing gratifies me more than doing it.
 
-I've spent five years working in the family business to pay for my studies, which's lead me to understand even more how much I love coding and in particular solving problems.
 
 PERSONAL INFORMATION
   Address: , Milan, 
@@ -40,8 +39,11 @@ WORK EXPERIENCE
   * September 2021 – Present
     Software Developer at OverIT - Field Service Management, Milano
       
-I am currently working on AR technlogies with Microsoft Holens 2 for the SPACE1 division to develop new solutions for the Field Service Menagement and the Augmented Collaboration
+I am currently working on AR technlogies with Microsoft Holens 2 for the SPACE1 division to develop new solutions for the Field Service Menagement and the Augmented Collaboration.
 
+During my period working as a Software developer at OverIT I was able to focus on:
+
+C#, Unity, Microsoft Hololens 2,  VR technologies, Database, Online Server, API, Webservices, In-Depth Code optimization, Code Design
 
   * March 2020 – September 2021
     Software Developer (C# - Unity) at UpSurgeOn Srl, Milano
@@ -49,7 +51,7 @@ I am currently working on AR technlogies with Microsoft Holens 2 for the SPACE1 
 
 For this purpose, UpSurgeOn won the European Union’s H2020 Research and Innovation Programme under grant agreement n.880895.
 
-During my period working there as a Software developer on Unity I was able to focus on:
+During my period working as a Software developer at UpSurgeOn I was able to focus on:
 
 C#, Unity, Online Stores Management, ARCore - ARKit, Shaders, UI, In-Depth Code optimization, Services (Savings, In-App Purchase, News), Database, Online Server API, Camera Behaviours.
 
@@ -91,4 +93,5 @@ EXTRA-CURRICULAR ACTIVITIES
 COURSES
   * January 2018 – January 2019
     Shader Development using Unity, https://shaderdev.com/p/shader-development-using-unity-5
+
 
