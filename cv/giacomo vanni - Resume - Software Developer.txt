@@ -4,7 +4,7 @@ Software Developer
 Milan
 +39 3935667302
 
-Passionate and motivated software developer based in Milan with 3 years of professional experience developing with C# and Unity on Android, iOS, Microsoft Hololens2 and HTC Vive.
+Passionate and motivated software developer based in Milan with 4 years of professional experience developing with C# and Unity on Android, iOS, Microsoft Hololens2, HTC Vive and Oculust quest 2
 
 I am interested in all kinds of technologies, in particular everything regarding Shaders, Videogames, AR/VR/XR, and AI.
 
@@ -29,6 +29,7 @@ SKILLS
   ★★★★★ C#
   ★★★★★ Unity
   ★★★★★ Git
+  ★★★★★ AR/VR
   ★★★★☆ Shader (CG - HLSL)
   ★★★☆☆ C++
   ★★★★★ OOP
@@ -36,10 +37,16 @@ SKILLS
   ★★★★★ Working with Designers/Artists
 
 WORK EXPERIENCE
-  * September 2021 – Present
+  * August 2022 – Present
+    Software Developer (Unity -VR) at Hegias AG, Lugano
+      I am working on an automated and browser-based content management system (CMS) solution for visualizing and communicating with virtual reality (VR) for the construction and real estate industry.
+
+Focus on:  VR, Shaders, Oculus Quest 2, HTC Vive, C#, Unity, Database, API, Webservices, Code Design, Code architecture
+
+  * September 2021 – September 2022
     Software Developer at OverIT - Field Service Management, Milano
       
-I am currently working on AR technlogies with Microsoft Holens 2 for the SPACE1 division to develop new solutions for the Field Service Menagement and the Augmented Collaboration.
+I have worked on AR technlogies with Microsoft Holens 2 for the SPACE1 division to develop new solutions for the Field Service Menagement and the Augmented Collaboration.
 
 During my period working as a Software developer at OverIT I was able to focus on:
 
@@ -48,8 +55,6 @@ C#, Unity, Microsoft Hololens 2,  VR technologies, Database, Online Server, API
   * March 2020 – September 2021
     Software Developer (C# - Unity) at UpSurgeOn Srl, Milano
       UpSurgeOn develops an advanced sequence of virtual and physical technologies designed to support mental and manual training for young neurosurgeons. The goal of the company is to solve the problem of practice in neurosurgery which is a global healthcare emergency.
-
-For this purpose, UpSurgeOn won the European Union’s H2020 Research and Innovation Programme under grant agreement n.880895.
 
 During my period working as a Software developer at UpSurgeOn I was able to focus on:
 
