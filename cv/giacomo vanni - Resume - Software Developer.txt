@@ -4,7 +4,7 @@ Software Developer
 Milan
 +39 3935667302
 
-Passionate and motivated software developer based in Milan with 4 years of professional experience developing with C# and Unity on Android, iOS, Microsoft Hololens2, HTC Vive and Oculust quest 2
+Passionate and motivated software developer based in Florence with 4 years of professional experience developing with C# and Unity on Android, iOS, Microsoft Hololens2, HTC Vive and Oculust quest 2
 
 I am interested in all kinds of technologies, in particular everything regarding Shaders, Videogames, AR/VR/XR, and AI.
 
@@ -37,7 +37,14 @@ SKILLS
   ★★★★★ Working with Designers/Artists
 
 WORK EXPERIENCE
-  * August 2022 – Present
+  * March 2023 – Present
+    Senior Unity Developer - Head of Immersive team at  IQUII, Remote
+      I am currently leading the Immersive Technologies division of IQUII.
+
+We are currently working with the latest AR/VR/MR technologies in a B2B environment in order to provide the best product for our customers.
+
+
+  * August 2022 – March 2023
     Software Developer (Unity -VR) at Hegias AG, Lugano
       I am working on an automated and browser-based content management system (CMS) solution for visualizing and communicating with virtual reality (VR) for the construction and real estate industry.
 
@@ -80,14 +87,6 @@ C#, C++, Unity, Teamwork, Working with artists and designers, working with other
 
     Although I didn’t complete the course, I spent two years attending classes and exams.
 I learned the principles of Programming, OOP, and attended courses of Algorithm and Data Structures, Operating System, Math and Physic
-
-INTERNSHIPS
-  * May 2016 – September 2016
-    Unity Developer (Microsoft HoloLens) at Balzo Srl, Florence
-
-    After I've finished my first year at the academy, one of my professors offered me an internship at his company.
-
-For four months I've worked hand to hand with senior developers using Microsoft HoloLens.
 
 EXTRA-CURRICULAR ACTIVITIES
   * January 2012 – January 2019
